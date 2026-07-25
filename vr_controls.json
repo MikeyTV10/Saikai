@@ -1,0 +1,15 @@
+{
+  "left_hand": {
+    "move": "left_stick",
+    "turn": "right_stick"
+  },
+  "right_hand": {
+    "break_place": "trigger",
+    "punch": "squeeze"
+  },
+  "buttons": {
+    "jump": "a",
+    "inventory": "b",
+    "menu": "menu"
+  }
+}
